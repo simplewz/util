@@ -6,5 +6,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>pdfToImg</module>
+  	<module>QrCode</module>
   </modules>
 </project>
